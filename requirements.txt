@@ -1,0 +1,5 @@
+pandas
+matplotlib
+seaborn
+# 可选：贝叶斯超参搜索
+# optuna
